@@ -41,7 +41,7 @@ apt update ; apt install git -y ; git clone git://github.com/DarkWinzo/Darkphish
 #### [+] Easy for Beginners !
 
 ## Credits :
-#### > Zphisher (https://github.com/DarkWinzo)
+#### > Darkphisher (https://github.com/DarkWinzo/Darkphisher)
 
 ## Tunelling Options :
 #### > Localhost (127.0.0.1)
