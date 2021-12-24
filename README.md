@@ -32,9 +32,6 @@
 apt update ; apt install git -y ; git clone git://github.com/DarkWinzo/Darkphisher.git ; cd Darkphisher ; bash setup ; bash Darkphisher
 ```
 <br>
-<p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/DarkWinzo/release-download/master/images/Darkphisher1.png"/>
-<img width="46%" src="https://raw.githubusercontent.com/DarkWinzo/release-download/master/images/Darkphisher2.png"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
