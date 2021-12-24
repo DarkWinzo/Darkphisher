@@ -19,17 +19,14 @@
 
 ## Installation :
 
-                            *  `apt update`
-                           
-                            *  `apt install git -y`
-                            
-                            *  `git clone git://github.com/DarkWinzo/Darkphisher.git`
-                           
-                            *  `cd Darkphisher`
-
-#### > SETUP :              *  `bash setup`
-#### > SETUP [TERMUX]  `bash tmux_setup`
+* `apt update`
+* `apt install git -y`
+* `git clone git://github.com/DarkWinzo/Darkphisher.git`
+* `cd Darkphisher`
+#### > SETUP : `bash setup`
+#### > SETUP [TERMUX] : `bash tmux_setup`
 #### > Run : `bash Darkphisher`
+
 
 ## Single Command :
 ```
