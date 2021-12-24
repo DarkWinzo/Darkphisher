@@ -25,7 +25,7 @@
                             
                             *  `git clone git://github.com/DarkWinzo/Darkphisher.git`
                            
-                           *  `cd Darkphisher`
+                            *  `cd Darkphisher`
 
 #### > SETUP :              *  `bash setup`
 #### > SETUP [TERMUX]  `bash tmux_setup`
