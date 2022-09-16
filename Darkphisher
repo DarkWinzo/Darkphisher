@@ -348,7 +348,7 @@ printf "\e[0m\e[92m  Whatsapp \e[0m\e[91m   : \e[0m\e[96mWa.me/+94775200935\e[0m
 printf "\e[0m\n"
 printf "\e[0m\e[92m  Version \e[0m\e[91m    : \e[0m\e[93m1.0\e[0m\n"
 printf "\e[0m\n"
-printf "         \e[0m\e[1;44m Follow Our Github For More Tools \e[0m\n"
+printf "         \e[0m\e[1;44m Follow Our Github For More Tools (ඒයි මෝඩයා..ටූල් එක පාවිච්චි කලානම් මාව Follow කරන් පලයන්)\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\n"
 sleep 3
