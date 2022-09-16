@@ -9,7 +9,7 @@ user_interrupt(){
         printf "\e[0m\e[1;36m\t CTRL + C Pressed !!\n"
         sleep 2
         printf "\e[0m\n"
-        printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/DarkWinzo for more\e[0m\n"
+        printf " \e[0m\e[1;42m Thanks for Using This Tool(මෙම මෙවලම භාවිතා කිරීම ගැන ඔබට ස්තුතියි)  !!\e[0m  \e[1;44m Visit https://github.com/DarkWinzo for more\e[0m\n"
         printf "\e[0m\n"
         exit 1
 }
@@ -47,14 +47,14 @@ command -v unzip > /dev/null 2>&1 || { printf "\n\e[0m\e[96m Packages are not In
 if [[ -d .htr ]]; then
 printf ""
 else
-printf "\n\e[0m\e[96m Packages are not Found ! type \e[0m\e[93mbash setup\e[0m\n\n"
+printf "\n\e[0m\e[96m Packages are not Found(පැකේජ හමු නොවේ) ! type \e[0m\e[93mbash setup\e[0m\n\n"
 exit 1 
 fi
 
 if [[ -d .Modules ]]; then
 printf ""
 else
-printf "\n\e[0m\e[96m Packages are not Found ! type \e[0m\e[93mbash setup\e[0m\n\n"
+printf "\n\e[0m\e[96m Packages are not Found(පැකේජ හමු නොවේ) ! type \e[0m\e[93mbash setup\e[0m\n\n"
 exit 1 
 fi
 
@@ -78,7 +78,7 @@ printf "\e[0m\e[92m  ─║║║║╔╗║╔╣╚╝╝ \e[0m\e[93m  ┃╭
 printf "\e[0m\e[92m  ╔╝╚╝║╔╗║║║╔╗╗ \e[0m\e[93m  ┃┃╱╱┃┃╱┃┣┫┣┫╰━╯┃┃╱┃┃╰━━┫┃┃╰╮   \e[0m\n"
 printf "\e[0m\e[92m  ╚═══╩╝╚╩╝╚╝╚╝ \e[0m\e[93m  ╰╯╱╱╰╯╱╰┻━━┻━━━┻╯╱╰┻━━━┻╯╰━╯   \e[0m\e[1;44m[V 1.0]\e[0m\n"
 printf "\e[0m\n"
-printf " \e[0m\e[1;41m Advanced Phishing Tool with 30+ Templates  [BY : DARKWINZO ]\e[0m\n"
+printf " \e[0m\e[1;41m Advanced Phishing Tools               DARKWINZO ]\e[0m\n"
 printf "\e[0m\e[1;41m Contact DarkWinzo (Whatsapp) = Wa.me/+94775200935]\e[0m\n"
 printf "\e[0m\n"
 }
@@ -206,7 +206,7 @@ elif [[ $menu_option == 99 ]]; then
 about
 elif [[ $menu_option == 0 || $menu_option == 00 ]]; then
 printf "\e[0m\n"
-printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/DarkWinzo for more\e[0m\n"
+printf " \e[0m\e[1;42m Thanks for Using This Tool(මෙම මෙවලම භාවිතා කිරීම ගැන ඔබට ස්තුතියි) !!\e[0m  \e[1;44m Visit https://github.com/DarkWinzo for more\e[0m\n"
 printf "\e[0m\n"
 exit 1
 
@@ -363,7 +363,7 @@ menu
 elif [[ $about_option == 99 ]]; then
 sleep 1
 printf "\e[0m\n"
-printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/DarkWinzo for more\e[0m\n"
+printf " \e[0m\e[1;42m Thanks for Using This Tool(මෙම මෙවලම භාවිතා කිරීම ගැන ඔබට ස්තුතියි) !!\e[0m  \e[1;44m Visit https://github.com/DarkWinzo for more\e[0m\n"
 printf "\e[0m\n"
 exit 1
 
